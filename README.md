@@ -4,8 +4,6 @@ Assets for Volmit projects. Each project has a folder at the root. Company artwo
 
 ## Organization
 
-Group files by type within each project. Only create folders you need.
-
 | Folder | Contents | Example |
 | --- | --- | --- |
 | `icons/` | Icons and variants | [Wormholes](wormholes/icons/) |
@@ -29,4 +27,4 @@ Add subfolders for larger collections, like [Iris biomes](iris/screenshots/biome
 
 ## Linking assets
 
-Renaming or moving a file changes its URL. Update links that use it, and publish the asset before using the new URL in live content.
+Renaming or moving a file changes its URL, remember to update all URLs.
