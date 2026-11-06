@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <title>animus-split-figure.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <polygon points="128,12.897 168,52.897 128,92.897 88,52.897" fill="#a3244c"/>
+    <polygon points="128,52.897 128,12.897 168,52.897" fill="#f2557f"/>
+    <polygon points="128,52.897 168,52.897 128,92.897" fill="#a3244c"/>
+    <polygon points="128,52.897 128,92.897 88,52.897" fill="#7e1838"/>
+    <polygon points="128,52.897 88,52.897 128,12.897" fill="#d63a67"/>
+    <polygon points="56,104.897 122,104.897 122,116.897 44,116.897" fill="#474747"/>
+    <polygon points="134,104.897 200,104.897 212,116.897 134,116.897" fill="#262626"/>
+    <polygon points="44,116.897 122,116.897 122,243.103" fill="#5a5a5a"/>
+    <polygon points="134,116.897 212,116.897 134,243.103" fill="#363636"/>
+    <rect x="122" y="116.897" width="12" height="126.206" fill="#d63a67"/>
+  </g>
+</svg>
